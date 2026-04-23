@@ -71,4 +71,5 @@ The system also visually indicates how efficiently the AI reaches the solution u
 ## 👤 Author
 
 Developed as part of a project focused on AI algorithms, problem-solving, and modern UI design.
+
 BY~ ABHAY SINGH CHOUHAN
