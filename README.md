@@ -27,12 +27,6 @@ An AI-powered Sudoku Solver that efficiently solves puzzles using the Backtracki
 
 ---
 
-## 📸 Preview
-
-*Add your project screenshot here*
-
----
-
 ## ⚙️ How It Works
 
 The solver uses a recursive Backtracking approach:
